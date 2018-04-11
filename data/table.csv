@@ -1,0 +1,13 @@
+﻿Name,Description
+B1,"Band 1 (Ultra Blue) surface reflectance, 0.435-0.451 μm"
+B2,"Band 2 (Blue) surface reflectance, 0.452-0.512 μm"
+B3,"Band 3 (Green) surface reflectance, 0.533-0.590 μm"
+B4,"Band 4 (Red) surface reflectance, 0.636-0.673 μm"
+B5,"Band 5 (Near Infrared) surface reflectance, 0.851-0.879 μm"
+B6,"Band 6 (Shortwave Infrared 1) surface reflectance, 1.566-1.651 μm"
+B7,"Band 7 (Shortwave Infrared 2) surface reflectance, 2.107-2.294 μm"
+B10,"Band 10 brightness temperature (Kelvin), 10.60-11.19 μm"
+B11,"Band 11 brightness temperature (Kelvin), 11.50-12.51 μm"
+sr_aerosol,"Aerosol attributes, see Aerosol QA table"
+pixel_qa,"Pixel quality attributes, see Pixel QA table"
+radsat_qa,"Radiometric saturation QA, see Radsat QA table"
