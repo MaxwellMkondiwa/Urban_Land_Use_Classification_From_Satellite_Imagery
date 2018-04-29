@@ -1,0 +1,2560 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-04-29T00:14:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367694729",
+        "addr:state": "NJ",
+        "amenity": "theatre",
+        "ele": "9",
+        "gnis:county_name": "Union",
+        "gnis:feature_id": "2056077",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Saint Adalbert Auditorium",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1932001,
+          40.6512141
+        ]
+      },
+      "id": "node/367694729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367694862",
+        "addr:state": "NJ",
+        "amenity": "theatre",
+        "ele": "4",
+        "gnis:county_name": "Union",
+        "gnis:feature_id": "2056102",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Liberty Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2123498,
+          40.6621459
+        ]
+      },
+      "id": "node/367694862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367694870",
+        "addr:state": "NJ",
+        "amenity": "theatre",
+        "ele": "8",
+        "gnis:county_name": "Union",
+        "gnis:feature_id": "2056101",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Regent Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2143118,
+          40.663436
+        ]
+      },
+      "id": "node/367694870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367694877",
+        "addr:state": "NJ",
+        "amenity": "theatre",
+        "ele": "148",
+        "gnis:county_name": "Essex",
+        "gnis:feature_id": "2056831",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Alumni Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2716069,
+          40.833627
+        ]
+      },
+      "id": "node/367694877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367694882",
+        "addr:state": "NJ",
+        "amenity": "theatre",
+        "ele": "2",
+        "gnis:county_name": "Union",
+        "gnis:feature_id": "2056282",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Union County Performing Arts Center",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.276612,
+          40.6105723
+        ]
+      },
+      "id": "node/367694882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367694899",
+        "addr:state": "NJ",
+        "amenity": "theatre",
+        "ele": "2",
+        "gnis:county_name": "Bergen",
+        "gnis:feature_id": "2061914",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Breslin Auditorium",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0962531,
+          40.8673217
+        ]
+      },
+      "id": "node/367694899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051426",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "10",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2072042",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Louis N Jaffe Art Theatre",
+        "source": "USGS Geonames",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9866667,
+          40.7308333
+        ]
+      },
+      "id": "node/368051426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051450",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "21",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2044313",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Walter Reade Theater",
+        "source": "USGS Geonames",
+        "wikidata": "Q3565863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9834793,
+          40.7742155
+        ]
+      },
+      "id": "node/368051450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051456",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "21",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2044314",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "The Clark Studio Theater",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9834746,
+          40.7741692
+        ]
+      },
+      "id": "node/368051456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051462",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "18",
+        "gnis:county_name": "Westchester",
+        "gnis:feature_id": "2062723",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Joyce Auditorium",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7884696,
+          40.9245377
+        ]
+      },
+      "id": "node/368051462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051467",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "gnis:feature_id": "2072038",
+        "gnis:reviewed": "no",
+        "name": "Astor Place Opera House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9921313,
+          40.7300861
+        ]
+      },
+      "id": "node/368051467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051474",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "54",
+        "gnis:county_name": "Bronx",
+        "gnis:feature_id": "2043713",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Hall of Fame Playhouse",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9118031,
+          40.8584333
+        ]
+      },
+      "id": "node/368051474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051495",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "10",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2042645",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Caspary Auditorium",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9559715,
+          40.7631571
+        ]
+      },
+      "id": "node/368051495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051619",
+        "addr:city": "New York",
+        "addr:housenumber": "1564",
+        "addr:state": "NY",
+        "addr:street": "Broadway",
+        "amenity": "theatre",
+        "ele": "15",
+        "gnis:feature_id": "2083222",
+        "name": "Palace Theater",
+        "source": "USGS Geonames",
+        "wikidata": "Q3360756",
+        "wikipedia": "en:Palace Theatre (Broadway)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9846754,
+          40.758894
+        ]
+      },
+      "id": "node/368051619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051649",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "18",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083213",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Lambs Theater",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9848113,
+          40.7563823
+        ]
+      },
+      "id": "node/368051649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051660",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "12",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083203",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Second Stage Theater",
+        "source": "USGS Geonames",
+        "wikidata": "Q7443561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9895564,
+          40.7581985
+        ]
+      },
+      "id": "node/368051660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051665",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "5",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083018",
+        "name": "Atlantic Theater",
+        "website": "https://atlantictheater.org/",
+        "wikidata": "Q2869405",
+        "wikipedia": "en:Atlantic Theater Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.001512,
+          40.7439485
+        ]
+      },
+      "id": "node/368051665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051668",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "12",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083062",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Daryl Roth Theater",
+        "source": "USGS Geonames",
+        "wikidata": "Q38251076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9894585,
+          40.7352914
+        ]
+      },
+      "id": "node/368051668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051671",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "12",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2082987",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Rod Rogers Dance Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9911111,
+          40.7263889
+        ]
+      },
+      "id": "node/368051671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051674",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "6",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083009",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Joyce Theatre",
+        "source": "USGS Geonames",
+        "wikidata": "Q3187238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0011111,
+          40.7425
+        ]
+      },
+      "id": "node/368051674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051677",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "13",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2082983",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Bouwerie Lane Theatre",
+        "source": "USGS Geonames",
+        "wikidata": "Q4950488",
+        "wikipedia": "en:Bouwerie Lane Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9927778,
+          40.7258333
+        ]
+      },
+      "id": "node/368051677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051679",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "11",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2082982",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Variety Arts Theatre",
+        "source": "USGS Geonames",
+        "wikidata": "Q45107588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9883333,
+          40.7330556
+        ]
+      },
+      "id": "node/368051679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051684",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "6",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2080760",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Minetta Lane Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0016667,
+          40.7302778
+        ]
+      },
+      "id": "node/368051684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051690",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "37",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2079074",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Minor Latham Playhouse",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9627553,
+          40.8102679
+        ]
+      },
+      "id": "node/368051690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051695",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "49",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2075041",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Little Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5991667,
+          40.8186111
+        ]
+      },
+      "id": "node/368051695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051705",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "24",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2074932",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Olmsted Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6508333,
+          40.7205556
+        ]
+      },
+      "id": "node/368051705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368051709",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "12",
+        "gnis:county_name": "Bronx",
+        "gnis:feature_id": "2074826",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Robbins Auditorium",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8455491,
+          40.8498817
+        ]
+      },
+      "id": "node/368051709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052247",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "20",
+        "gnis:county_name": "Queens",
+        "gnis:feature_id": "2514036",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Jackson Triplex Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8833333,
+          40.7469444
+        ]
+      },
+      "id": "node/368052247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052750",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "21",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083355",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Alvin Ailey American Dance Theater",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9875,
+          40.7719444
+        ]
+      },
+      "id": "node/368052750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052754",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "23",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083395",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "heritage": "yes",
+        "historic": "building",
+        "image": "http://en.wikipedia.org/wiki/File:Beacon_Theater_NYC_2003.jpg",
+        "name": "Beacon Theater",
+        "source": "USGS Geonames",
+        "wikidata": "Q264186",
+        "wikipedia": "en:Beacon Theatre (New York City)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9811314,
+          40.7804903
+        ]
+      },
+      "id": "node/368052754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052761",
+        "addr:city": "New York",
+        "addr:housenumber": "129",
+        "addr:postcode": "10023",
+        "addr:state": "NY",
+        "addr:street": "West 67th Street",
+        "amenity": "theatre",
+        "ele": "22",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083344",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Merkin Concert Hall",
+        "operator": "Kaufman Music Center",
+        "phone": "+1 212 501-3330",
+        "source": "USGS Geonames",
+        "theatre:genre": "chamber_music",
+        "website": "http://www.kaufmanmusiccenter.org/mch",
+        "wikidata": "Q6819637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9829549,
+          40.7752346
+        ]
+      },
+      "id": "node/368052761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052764",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "8",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083691",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Pabst Concert Hall",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.951096,
+          40.8091529
+        ]
+      },
+      "id": "node/368052764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052774",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "36",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083672",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Dance Theatre of Harlem",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9436111,
+          40.8288889
+        ]
+      },
+      "id": "node/368052774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052777",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "6",
+        "gnis:county_name": "Kings",
+        "gnis:feature_id": "2094625",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Sheepshead Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9516667,
+          40.5852778
+        ]
+      },
+      "id": "node/368052777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052784",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "9",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083747",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Renaissance Theater",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9422222,
+          40.8166667
+        ]
+      },
+      "id": "node/368052784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052787",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "52",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083860",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Alumni Auditorium",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9415796,
+          40.8416764
+        ]
+      },
+      "id": "node/368052787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052804",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "8",
+        "gnis:county_name": "Kings",
+        "gnis:feature_id": "2095445",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Loews Oriental Theatre (historical)",
+        "source": "USGS Geonames",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0019444,
+          40.6063889
+        ]
+      },
+      "id": "node/368052804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052817",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "54",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2099786",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Coliseum Theatre",
+        "source": "USGS Geonames",
+        "wikidata": "Q31209196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9361111,
+          40.8505556
+        ]
+      },
+      "id": "node/368052817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052821",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "9",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2099784",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Alpine Theatre",
+        "source": "USGS Geonames",
+        "wikidata": "Q45104845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9277778,
+          40.865
+        ]
+      },
+      "id": "node/368052821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368053169",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "12",
+        "gnis:county_name": "Kings",
+        "gnis:feature_id": "2499548",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Kent Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9663889,
+          40.6288889
+        ]
+      },
+      "id": "node/368053169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368053173",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "8",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2498977",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Central Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.725,
+          40.6202778
+        ]
+      },
+      "id": "node/368053173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368053188",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "39",
+        "gnis:county_name": "Bronx",
+        "gnis:feature_id": "2496527",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Paradise Theater",
+        "source": "USGS Geonames",
+        "wikidata": "Q2051407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8988889,
+          40.8605556
+        ]
+      },
+      "id": "node/368053188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368053198",
+        "addr:housenumber": "82-22",
+        "addr:postcode": "11372",
+        "addr:state": "NY",
+        "addr:street": "Northern Boulevard",
+        "amenity": "theatre",
+        "ele": "23",
+        "gnis:county_name": "Queens",
+        "gnis:feature_id": "2513303",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Boulevard Theatre",
+        "source": "USGS Geonames",
+        "wikidata": "Q4949671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88457,
+          40.7554953
+        ]
+      },
+      "id": "node/368053198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368053202",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "12",
+        "gnis:county_name": "Queens",
+        "gnis:feature_id": "2513300",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Bombay Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7941667,
+          40.7327778
+        ]
+      },
+      "id": "node/368053202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368053206",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "8",
+        "gnis:county_name": "Queens",
+        "gnis:feature_id": "2513412",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Fair Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8783701,
+          40.7631675
+        ]
+      },
+      "id": "node/368053206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368053209",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "20",
+        "gnis:county_name": "Queens",
+        "gnis:feature_id": "2513408",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Eagle Theater",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8922222,
+          40.7475
+        ]
+      },
+      "id": "node/368053209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368053220",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "ele": "23",
+        "gnis:county_name": "Kings",
+        "gnis:feature_id": "2508267",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Alpine Theater",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0202778,
+          40.6333333
+        ]
+      },
+      "id": "node/368053220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368053954",
+        "addr:city": "New York",
+        "addr:state": "NY",
+        "amenity": "theatre",
+        "designation": "Concert Hall",
+        "ele": "22",
+        "gnis:feature_id": "2044300",
+        "name": "Alice Tully Hall",
+        "source": "http://en.wikipedia.org/wiki/Alice_Tully_Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9825787,
+          40.773503
+        ]
+      },
+      "id": "node/368053954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/424059700",
+        "amenity": "theatre",
+        "name": "Veteran's Memorial Hall Playhouse",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1015001,
+          40.6431505
+        ]
+      },
+      "id": "node/424059700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/424060348",
+        "amenity": "theatre",
+        "name": "Music Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1012722,
+          40.6436162
+        ]
+      },
+      "id": "node/424060348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1280446969",
+        "amenity": "theatre",
+        "name": "South Meadow Stage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1026383,
+          40.6411572
+        ]
+      },
+      "id": "node/1280446969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1687531369",
+        "amenity": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0103397,
+          40.8965509
+        ]
+      },
+      "id": "node/1687531369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1752822408",
+        "addr:city": "New York",
+        "addr:housenumber": "1515",
+        "addr:state": "NY",
+        "addr:street": "Broadway",
+        "amenity": "theatre",
+        "name": "Minskoff Theatre",
+        "start_date": "1973",
+        "website": "http://minskofftheatre.com/",
+        "wikidata": "Q3062716",
+        "wikipedia": "en:Minskoff Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9862053,
+          40.758063
+        ]
+      },
+      "id": "node/1752822408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1752843998",
+        "addr:city": "New York",
+        "addr:country": "US",
+        "addr:housenumber": "124",
+        "addr:state": "NY",
+        "addr:street": "West 43rd Street",
+        "amenity": "theatre",
+        "name": "Stephen Sondheim Theatre",
+        "old_name": "Henry Miller's Theatre",
+        "start_date": "1918",
+        "wikidata": "Q7610570",
+        "wikipedia": "en:Stephen Sondheim Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9849328,
+          40.7558962
+        ]
+      },
+      "id": "node/1752843998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1777415638",
+        "amenity": "theatre",
+        "name": "Prudential Concert Grove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1831199,
+          40.756501
+        ]
+      },
+      "id": "node/1777415638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1948123002",
+        "amenity": "theatre",
+        "cuisine": "asian",
+        "gay": "welcome",
+        "genre": "cabaret",
+        "name": "Lucky Cheng's",
+        "website": "http://www.luckychengsnewyork.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9842271,
+          40.7629935
+        ]
+      },
+      "id": "node/1948123002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2483139540",
+        "addr:city": "New York",
+        "addr:country": "US",
+        "addr:housenumber": "307",
+        "addr:state": "NY",
+        "addr:street": "West 26th Street",
+        "amenity": "theatre",
+        "name": "Upright Citizens Brigade Theatre New York",
+        "phone": "+1  (212) 366-9176",
+        "website": "http://www.ucbtheatre.com/",
+        "wikidata": "Q5489525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.997632,
+          40.7475684
+        ]
+      },
+      "id": "node/2483139540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2493233170",
+        "addr:city": "New York",
+        "addr:housenumber": "312",
+        "addr:postcode": "10018",
+        "addr:street": "West 36th Street",
+        "amenity": "theatre",
+        "name": "Abingdon Theatre Complex",
+        "phone": "+1 212 868-2055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9931889,
+          40.7536123
+        ]
+      },
+      "id": "node/2493233170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2494208360",
+        "addr:housenumber": "338",
+        "addr:postcode": "11215",
+        "addr:street": "6th Avenue",
+        "amenity": "theatre",
+        "name": "Puppetworks",
+        "opening_hours": "Mo-Su 10:00-14:45",
+        "performance_times": "Sa-Su 12:30, 14:30",
+        "phone": "+1 718 965 3391",
+        "theatre:genre": "puppet",
+        "website": "http://puppetworks.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9816313,
+          40.6710237
+        ]
+      },
+      "id": "node/2494208360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2517042190",
+        "addr:city": "New York",
+        "addr:housenumber": "441",
+        "addr:postcode": "10001",
+        "addr:street": "West 26th Street",
+        "amenity": "theatre",
+        "name": "Hudson Guild Theatre",
+        "operator": "Hudson Guild",
+        "phone": "+1 212 760-9837",
+        "website": "http://www.hudsonguild.org/index.php/arts-events/theatre-productions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0016225,
+          40.7495539
+        ]
+      },
+      "id": "node/2517042190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2543207323",
+        "addr:housenumber": "939A",
+        "addr:postcode": "11207",
+        "addr:state": "NY",
+        "addr:street": "Pennsylvania Avenue",
+        "amenity": "theatre",
+        "ele": "3",
+        "gnis:county_name": "Kings",
+        "gnis:feature_id": "2095213",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Penn Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8877502,
+          40.6552776
+        ]
+      },
+      "id": "node/2543207323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2547205417",
+        "addr:city": "New York",
+        "addr:housenumber": "136",
+        "addr:postcode": "10003",
+        "addr:state": "NY",
+        "addr:street": "East 13th Street",
+        "amenity": "theatre",
+        "name": "Classic Stage Company",
+        "website": "http://www.classicstage.org/",
+        "wikidata": "Q5128221",
+        "wikipedia": "en:Classic Stage Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9882502,
+          40.7327327
+        ]
+      },
+      "id": "node/2547205417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2550012213",
+        "addr:housenumber": "158",
+        "addr:postcode": "NY 10012",
+        "addr:street": "Bleecker Street",
+        "amenity": "theatre",
+        "name": "Le Poisson Rouge",
+        "name:en": "Le Poisson Rouge",
+        "website": "http://lpr.com",
+        "wikidata": "Q3225754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9998816,
+          40.7284254
+        ]
+      },
+      "id": "node/2550012213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555126667",
+        "addr:housenumber": "143",
+        "addr:postcode": "10002",
+        "addr:street": "East Houston Street",
+        "amenity": "theatre",
+        "name": "Sunshine Cinema",
+        "name:zh": "里程碑阳光电影院",
+        "phone": "+12122607289",
+        "website": "http://www.landmarktheatres.com",
+        "wheelchair": "yes",
+        "wikidata": "Q45108598"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9899884,
+          40.7230573
+        ]
+      },
+      "id": "node/2555126667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2562374829",
+        "addr:housenumber": "17",
+        "addr:postcode": "10003",
+        "addr:street": "Irving Place",
+        "amenity": "theatre",
+        "name": "Irving Plaza",
+        "website": "http://venue.irvingplaza.com",
+        "wikidata": "Q3154621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9882699,
+          40.7349099
+        ]
+      },
+      "id": "node/2562374829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2567566950",
+        "addr:city": "New York",
+        "addr:housenumber": "466",
+        "addr:postcode": "10002",
+        "addr:state": "NY",
+        "addr:street": "Grand Street",
+        "amenity": "theatre",
+        "name": "Henry Street Playhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9838234,
+          40.7152336
+        ]
+      },
+      "id": "node/2567566950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2592130018",
+        "amenity": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9807203,
+          40.7818403
+        ]
+      },
+      "id": "node/2592130018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2678466841",
+        "addr:city": "New York",
+        "addr:housenumber": "1515",
+        "addr:state": "NY",
+        "addr:street": "Broadway",
+        "amenity": "theatre",
+        "name": "PlayStation Theater",
+        "start_date": "2015",
+        "website": "http://www.playstationtheater.com/",
+        "wikidata": "Q4896607",
+        "wikipedia": "en:PlayStation Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9864422,
+          40.7576451
+        ]
+      },
+      "id": "node/2678466841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2700609215",
+        "addr:city": "Brooklyn",
+        "addr:housenumber": "160",
+        "addr:postcode": "11201",
+        "addr:street": "Schermerhorn Street",
+        "amenity": "theatre",
+        "name": "Brooklyn Ballet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9874708,
+          40.6893457
+        ]
+      },
+      "id": "node/2700609215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2703424343",
+        "addr:housenumber": "254",
+        "addr:postcode": "10001",
+        "addr:street": "West 29th Street",
+        "amenity": "theatre",
+        "name": "Magnet Theater",
+        "wikidata": "Q6731444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9953514,
+          40.7487769
+        ]
+      },
+      "id": "node/2703424343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709878693",
+        "addr:housenumber": "424",
+        "addr:postcode": "10036",
+        "addr:state": "NY",
+        "addr:street": "West 44th Street",
+        "amenity": "theatre",
+        "ele": "10",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083193",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "New Dramatists Theater",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9929292,
+          40.7601215
+        ]
+      },
+      "id": "node/2709878693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2710204015",
+        "addr:city": "New York",
+        "addr:housenumber": "150",
+        "addr:postcode": "10023",
+        "addr:state": "NY",
+        "addr:street": "West 65th Street",
+        "alt_name": "Vivian Beaumont Theate",
+        "amenity": "theatre",
+        "name": "Lincoln Center Theater",
+        "operator": "Lincoln Center for the Performing Arts",
+        "website": "http://www.lct.org/",
+        "wikidata": "Q176205",
+        "wikipedia": "en:Vivian Beaumont Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984403,
+          40.7735012
+        ]
+      },
+      "id": "node/2710204015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2717293879",
+        "addr:city": "New York",
+        "addr:housenumber": "249",
+        "addr:postcode": "10036",
+        "addr:state": "NY",
+        "addr:street": "West 45th Street",
+        "amenity": "theatre",
+        "ele": "13",
+        "gnis:feature_id": "2083218",
+        "name": "Imperial Theater",
+        "start_date": "1923",
+        "wikidata": "Q6006906",
+        "wikipedia": "en:Imperial Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9874068,
+          40.7588596
+        ]
+      },
+      "id": "node/2717293879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2717543654",
+        "addr:city": "New York",
+        "addr:housenumber": "123",
+        "addr:postcode": "10036",
+        "addr:state": "NY",
+        "addr:street": "West 43rd Street",
+        "amenity": "theatre",
+        "ele": "17",
+        "gnis:feature_id": "2083212",
+        "name": "The Town Hall",
+        "ref:nrhp": "80002724",
+        "start_date": "1921",
+        "wheelchair": "yes",
+        "wikidata": "Q1634948",
+        "wikipedia": "en:The Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9845629,
+          40.7560233
+        ]
+      },
+      "id": "node/2717543654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2796607378",
+        "addr:housenumber": "2962",
+        "addr:postcode": "10027",
+        "addr:street": "Broadway",
+        "amenity": "theatre",
+        "name": "Miller Theatre",
+        "wikidata": "Q6859250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9635058,
+          40.8081018
+        ]
+      },
+      "id": "node/2796607378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838396199",
+        "addr:housenumber": "2",
+        "addr:postcode": "11206",
+        "addr:state": "NY",
+        "addr:street": "Whipple Street",
+        "amenity": "theatre",
+        "ele": "4",
+        "gnis:county_name": "Kings",
+        "gnis:feature_id": "2501671",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Grace Theatre",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9458998,
+          40.7003735
+        ]
+      },
+      "id": "node/2838396199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2912157903",
+        "amenity": "theatre",
+        "theatre:genre": "chamber_music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9124536,
+          40.9002999
+        ]
+      },
+      "id": "node/2912157903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2920101574",
+        "addr:city": "New York",
+        "addr:housenumber": "407",
+        "addr:postcode": "10036",
+        "addr:street": "West 43rd Street",
+        "amenity": "theatre",
+        "name": "Westside Theatre",
+        "start_date": "1976",
+        "website": "http://www.westsidetheatre.com/",
+        "wikidata": "Q7989720",
+        "wikipedia": "en:Westside Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9926202,
+          40.759448
+        ]
+      },
+      "id": "node/2920101574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2957303781",
+        "addr:city": "New York",
+        "addr:housenumber": "405",
+        "addr:postcode": "10019",
+        "addr:street": "West 55th Street",
+        "amenity": "theatre",
+        "name": "Alvin Ailey American Dance Theater",
+        "phone": "+1 212 405 9000",
+        "website": "http://www.alvinailey.org/",
+        "wikidata": "Q449026",
+        "wikipedia": "en:Alvin Ailey American Dance Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9864032,
+          40.7669759
+        ]
+      },
+      "id": "node/2957303781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3189425424",
+        "amenity": "theatre",
+        "name": "L. Howard Fox Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1961668,
+          40.86119
+        ]
+      },
+      "id": "node/3189425424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3421054408",
+        "amenity": "theatre",
+        "name": "Astor Place Theatre",
+        "website": "http://www.blueman.com/new-york/about-show",
+        "wikidata": "Q4811073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.992186,
+          40.7293012
+        ]
+      },
+      "id": "node/3421054408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3510453891",
+        "amenity": "theatre",
+        "name": "NYCB Theatre at Westbury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5583511,
+          40.7733813
+        ]
+      },
+      "id": "node/3510453891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3574706493",
+        "addr:street": "1st Avenue",
+        "amenity": "theatre",
+        "name": "Theater for the New City",
+        "wikidata": "Q7777288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984852,
+          40.728654
+        ]
+      },
+      "id": "node/3574706493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3656077732",
+        "amenity": "theatre",
+        "name": "Amphitheater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0261462,
+          40.7415789
+        ]
+      },
+      "id": "node/3656077732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785222663",
+        "addr:city": "New York",
+        "addr:housenumber": "10",
+        "addr:postcode": "10023",
+        "addr:state": "NY",
+        "addr:street": "Lincoln Center Plaza",
+        "amenity": "theatre",
+        "name": "Lincoln Center for the Performing Arts",
+        "phone": "212-875-5456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9835294,
+          40.7723699
+        ]
+      },
+      "id": "node/3785222663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785237119",
+        "addr:city": "New York",
+        "addr:housenumber": "10",
+        "addr:postcode": "10023",
+        "addr:state": "NY",
+        "addr:street": "Lincoln Center Plaza",
+        "amenity": "theatre",
+        "name": "New York Philharmonic",
+        "phone": "212-875-5656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9829573,
+          40.7725505
+        ]
+      },
+      "id": "node/3785237119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4138783596",
+        "amenity": "theatre",
+        "name": "Ed Sullivan Theater",
+        "website": "http://www.edsullivan.com/ed-sullivan-theater/",
+        "wikidata": "Q3268242",
+        "wikipedia": "en:Ed Sullivan Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9828196,
+          40.7637743
+        ]
+      },
+      "id": "node/4138783596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4172092737",
+        "addr:city": "Long Island City",
+        "addr:housenumber": "44-02",
+        "addr:postcode": "11101",
+        "addr:state": "NY",
+        "addr:street": "23rd Street",
+        "amenity": "theatre",
+        "name": "Secret Theatre",
+        "phone": "+1 718 392-0722",
+        "website": "http://www.secrettheatre.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9449809,
+          40.7488051
+        ]
+      },
+      "id": "node/4172092737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4175145192",
+        "addr:housenumber": "594",
+        "addr:street": "Union Avenue",
+        "amenity": "theatre",
+        "name": "Side pony tail - comedy "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9524334,
+          40.7181383
+        ]
+      },
+      "id": "node/4175145192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4305075901",
+        "addr:street": "6th Avenue",
+        "amenity": "theatre",
+        "name": "IFC Center",
+        "wikidata": "Q5970652",
+        "wikipedia": "en:IFC Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0015835,
+          40.7311899
+        ]
+      },
+      "id": "node/4305075901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4313749248",
+        "amenity": "theatre",
+        "theatre:type": "amphi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8643697,
+          40.8108534
+        ]
+      },
+      "id": "node/4313749248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402339490",
+        "addr:housenumber": "340",
+        "addr:street": "West 50th Street",
+        "amenity": "theatre",
+        "name": "New World Stages",
+        "name:en": "New World Stages",
+        "website": "http://newworldstages.com/",
+        "wikidata": "Q1983008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9872333,
+          40.762757
+        ]
+      },
+      "id": "node/4402339490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4406663997",
+        "alt_name": "Perelman Stage",
+        "alt_name:1": "Main Hall",
+        "amenity": "theatre",
+        "name": "Stern Auditorium",
+        "theatre": "concert_hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9797261,
+          40.7651488
+        ]
+      },
+      "id": "node/4406663997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4406663998",
+        "amenity": "theatre",
+        "name": "Weill Recital Hall",
+        "theatre": "concert_hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9798857,
+          40.7652057
+        ]
+      },
+      "id": "node/4406663998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4406663999",
+        "amenity": "theatre",
+        "name": "Zankel Hall",
+        "theatre": "concert_hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9801619,
+          40.7649416
+        ]
+      },
+      "id": "node/4406663999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447010422",
+        "amenity": "theatre",
+        "name": "The McKittrick Hotel",
+        "website": "http://www.mckittrickhotel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0038103,
+          40.7506815
+        ]
+      },
+      "id": "node/4447010422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4607020321",
+        "addr:city": "New York",
+        "addr:housenumber": "330",
+        "addr:postcode": "10011",
+        "addr:state": "NY",
+        "addr:street": "West 16th Street",
+        "amenity": "theatre",
+        "name": "Atlantic Stage 2",
+        "operator": "Atlantic Theater Company",
+        "website": "https://atlantictheater.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0027591,
+          40.7414435
+        ]
+      },
+      "id": "node/4607020321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4764733071",
+        "addr:city": "New York City",
+        "addr:housenumber": "21",
+        "addr:postcode": "10002",
+        "addr:state": "NY",
+        "addr:street": "Clinton Street",
+        "amenity": "theatre",
+        "name": "Celebration of Whimsy (COW) theater",
+        "operator": "CLOSED MAY 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9843769,
+          40.7206734
+        ]
+      },
+      "id": "node/4764733071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4768241542",
+        "amenity": "theatre",
+        "name": "Standing Room Comedy Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9537173,
+          40.7443976
+        ]
+      },
+      "id": "node/4768241542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4830764330",
+        "addr:housenumber": "80",
+        "addr:postcode": "11249",
+        "addr:street": "North 6th Street",
+        "amenity": "theatre",
+        "name:en": "National Sawdust",
+        "website": "http://nationalsawdust.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9612431,
+          40.7189664
+        ]
+      },
+      "id": "node/4830764330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4837023080",
+        "amenity": "theatre",
+        "name": "The Meatlocker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.218982,
+          40.8154273
+        ]
+      },
+      "id": "node/4837023080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4870096922",
+        "addr:housenumber": "1029",
+        "addr:postcode": "11235",
+        "addr:street": "Brighton Beach Avenue",
+        "amenity": "theatre",
+        "name": "Master Theater",
+        "phone": "+17187323838",
+        "website": "http://www.mastertheater.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9584721,
+          40.5784033
+        ]
+      },
+      "id": "node/4870096922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4894479323",
+        "addr:housenumber": "466",
+        "addr:street": "Grand Street",
+        "amenity": "theatre",
+        "name": "Abrons Arts Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9837408,
+          40.715245
+        ]
+      },
+      "id": "node/4894479323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991344755",
+        "amenity": "theatre",
+        "name": "The Woolgatherers Present: Genesis 22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0179533,
+          40.6906863
+        ]
+      },
+      "id": "node/4991344755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5140200223",
+        "amenity": "theatre",
+        "name": "RICHARD RODGERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9867706,
+          40.7590324
+        ]
+      },
+      "id": "node/5140200223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5140225521",
+        "addr:postcode": "10036",
+        "amenity": "theatre",
+        "name": "Richard Rodgers Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9867782,
+          40.7590414
+        ]
+      },
+      "id": "node/5140225521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5140225522",
+        "amenity": "theatre",
+        "name": "Richard Rodgers Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9868166,
+          40.7591682
+        ]
+      },
+      "id": "node/5140225522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5206185104",
+        "addr:housenumber": "40",
+        "addr:street": "Greene Avenue",
+        "amenity": "theatre",
+        "name": "Paul Robeson Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9709152,
+          40.6859713
+        ]
+      },
+      "id": "node/5206185104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5208082921",
+        "addr:housenumber": "159",
+        "addr:postcode": "10009",
+        "addr:street": "1st Avenue",
+        "amenity": "theatre",
+        "name": "Performance Space 122",
+        "website": "http://www.ps112.org",
+        "wikidata": "Q3375343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9843931,
+          40.7281228
+        ]
+      },
+      "id": "node/5208082921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5215246723",
+        "amenity": "theatre",
+        "name": "Cherry Lane Theater",
+        "wikidata": "Q5092419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0052802,
+          40.7312452
+        ]
+      },
+      "id": "node/5215246723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5220507721",
+        "amenity": "theatre",
+        "name": "The Daily Show with Trevor Noah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9940376,
+          40.7670277
+        ]
+      },
+      "id": "node/5220507721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5221020085",
+        "amenity": "theatre",
+        "name": "The Billie Holiday Theatre",
+        "wikidata": "Q20880563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9454417,
+          40.6799708
+        ]
+      },
+      "id": "node/5221020085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5243572523",
+        "addr:housenumber": "50",
+        "addr:street": "13th Street",
+        "amenity": "theatre",
+        "name": "Thirteenth Street Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9964897,
+          40.7362018
+        ]
+      },
+      "id": "node/5243572523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5319169560",
+        "amenity": "theatre",
+        "name": "Renee Weiler Concert Hall",
+        "theatre:genre": "chamber_music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0045267,
+          40.7321597
+        ]
+      },
+      "id": "node/5319169560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5406249633",
+        "addr:housenumber": "41-17",
+        "addr:street": "Greenpoint Avenue",
+        "amenity": "theatre",
+        "name": "Thalia Spanish Theatre",
+        "phone": "+1-718-729-3880",
+        "website": "www.thaliatheatre.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9236331,
+          40.7402989
+        ]
+      },
+      "id": "node/5406249633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5514171300",
+        "addr:housenumber": "566",
+        "addr:street": "LaGuardia Place",
+        "amenity": "theatre",
+        "capacity": "860",
+        "email": "skirball.center.info@nyu.edu",
+        "name": "Skirball Center for the Performing Arts",
+        "operator": "New York University",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-212-992-8484",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://nyuskirball.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q3486320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9977312,
+          40.7298263
+        ]
+      },
+      "id": "node/5514171300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5521674383",
+        "addr:city": "Brooklyn",
+        "addr:housenumber": "262",
+        "addr:state": "NY",
+        "addr:street": "Ashland Place",
+        "amenity": "theatre",
+        "name": "Polonsky Shakespeare Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97859,
+          40.6874552
+        ]
+      },
+      "id": "node/5521674383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5576457142",
+        "amenity": "theatre",
+        "name": "Theatre 80",
+        "phone": "+1 212 388 0388",
+        "website": "https://theatre80.wordpress.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9858067,
+          40.727682
+        ]
+      },
+      "id": "node/5576457142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5583090307",
+        "addr:city": "Brooklyn",
+        "addr:housenumber": "319",
+        "addr:state": "NY",
+        "addr:street": "Frost Street",
+        "amenity": "theatre",
+        "name": "Brooklyn Steel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9389839,
+          40.71927
+        ]
+      },
+      "id": "node/5583090307"
+    }
+  ]
+}
